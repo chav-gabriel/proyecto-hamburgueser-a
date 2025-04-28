@@ -5,6 +5,9 @@
         <meta http-equiv="X-UA-compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=">
         <title>hamburgueseria</title>
+        <!--chavez gabriel y valentina lópez hicieron el codigo inicial de la pagina-->
+        <!--chavez gabriel hizo el sketch-->
+        <!--valentina lopez busco la paleta de colores-->
     </head>
     <body>
         <center>
