@@ -23,7 +23,7 @@
         <ul>
             <li>clasicas</li>
             <li>gourmet</li>
-            <l1>especiales</l1>
+            <li>especiales</li>
         </ul>
     </nav>
 </header>
